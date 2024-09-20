@@ -1,11 +1,3 @@
-{
-	"config": {
-		"vendor-dir": "Vendor",
-		 "minimum-stability": "alpha"
-	},
-	"require": {
-		 "josegonzalez/cakephp-upload": "1.0.0",
-		 "uzyn/cakephp-opauth": "*",
-	     "opauth/linkedin": "*" 
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f02e5b5650ded3e7c29464734a371d593a2b2b99e6c0300e2908038117ed797
+size 199

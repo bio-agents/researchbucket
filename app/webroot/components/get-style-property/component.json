@@ -1,8 +1,3 @@
-{
-  "name": "get-style-property",
-  "repo": "desandro/get-style-property",
-  "description": "Quick and dirty CSS property testing",
-  "version": "1.0.3",
-  "scripts": ["get-style-property.js"],
-  "main": "get-style-property.js"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:727ea5c0055b773c58d53fc0f52ce9122339a68aae0ece4230f3e81523fb0563
+size 230

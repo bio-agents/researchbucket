@@ -1,9 +1,3 @@
-{
-  "name": "datafocus",
-  "version": "0.0.1",
-  "dependencies": {
-    "jquery": "~1.11.1",
-    "bootstrap": "~3.1.1",
-    "isotope": "v2.0.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:48bbd1efa9638137edc1bfb5dbb6a666c749df7bc533b08d836d0b3b99d31a56
+size 148

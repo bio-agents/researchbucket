@@ -1,12 +1,3 @@
-{
-  "name": "get-size",
-  "version": "1.1.7",
-  "main": "get-size.js",
-  "description": "measures element size",
-  "dependencies": {
-    "get-style-property": "desandro/get-style-property"
-  },
-  "devDependencies": {
-    "qunit": "~1.10"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8e1da28c09c392ffbbfbf294dc1ccb4ab88504a7ca1d7c747c2f4612f90c3c
+size 244
